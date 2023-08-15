@@ -1,2 +1,2 @@
 # Homework
-Used for all Homework during SAVVY Coders DAP Program
+Used for all Homework during Savvy Coders DAP Program
